@@ -2,8 +2,8 @@
 
 Atividades da cadeira PERSISTENCIA_2021_2
 
-- [x] Lista de Excercícios 01
+- [x] Lista de Exercícios 01
 
-- [x] Lista de Excercícios 02
+- [x] Lista de Exercícios 02
 
-- [x] Lista de Excercícios 03
+- [x] Lista de Exercícios 03
