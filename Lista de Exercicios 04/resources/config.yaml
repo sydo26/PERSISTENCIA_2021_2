@@ -1,0 +1,6 @@
+postgres:
+  host: 'localhost'
+  user: 'docker'
+  pass: 'docker'
+  database: 'list04'
+  port: 5432
