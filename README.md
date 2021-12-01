@@ -11,3 +11,7 @@ Atividades da cadeira PERSISTENCIA_2021_2
 - [x] Trabalho Prático 01
 
 - [x] Lista de Exercícios 04
+
+- [x] Lista de Exercícios 05
+
+- [x] Lista de Exercícios 06
